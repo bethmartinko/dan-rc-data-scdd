@@ -1,0 +1,1108 @@
+{
+  "statewide": {
+    "total_consumers": 540868,
+    "total_expenditure": 12767209907,
+    "per_capita": 23605,
+    "utilization": 0.67,
+    "nopos_pct": 0.178,
+    "socrec_per_capita": 2834,
+    "ils_per_capita": 30499,
+    "sls_per_capita": 160183,
+    "home_per_capita": 12421,
+    "ethnicity": {
+      "asian": {
+        "count": 48338,
+        "expenditure": 1126870526,
+        "per_capita": 23312
+      },
+      "black": {
+        "count": 43515,
+        "expenditure": 1448748074,
+        "per_capita": 33293
+      },
+      "hispanic": {
+        "count": 237345,
+        "expenditure": 3826942679,
+        "per_capita": 16124
+      },
+      "white": {
+        "count": 132169,
+        "expenditure": 5232583955,
+        "per_capita": 39590
+      }
+    }
+  },
+  "rcs": {
+    "ACRC": {
+      "name": "Alta California Regional Center",
+      "short": "Alta California",
+      "area": "Sacramento region (10 counties)",
+      "website": "altaregional.org",
+      "code": "ACRC",
+      "total_consumers": 36660,
+      "total_expenditure": 780676229,
+      "total_authorized": 1364661070,
+      "per_capita": 21295,
+      "utilization": 0.572,
+      "ethnicity": {
+        "asian": {
+          "count": 3972,
+          "expenditure": 58800463,
+          "per_capita": 14804
+        },
+        "black": {
+          "count": 4126,
+          "expenditure": 97755356,
+          "per_capita": 23693
+        },
+        "hispanic": {
+          "count": 6617,
+          "expenditure": 89560335,
+          "per_capita": 13535
+        },
+        "white": {
+          "count": 14291,
+          "expenditure": 443876537,
+          "per_capita": 31060
+        }
+      },
+      "nopos_total": 36660,
+      "nopos_count": 5411,
+      "nopos_pct": 0.148,
+      "nopos_hispanic_pct": 0.133,
+      "nopos_white_pct": 0.153,
+      "socrec_consumers": 5360,
+      "socrec_expenditure": 7235780,
+      "socrec_per_capita": 1350,
+      "ils_consumers": 2626,
+      "ils_expenditure": 44401000,
+      "ils_per_capita": 16908,
+      "sls_consumers": 732,
+      "sls_expenditure": 164186142,
+      "sls_per_capita": 224298,
+      "home_consumers": 30890,
+      "home_expenditure": 268301723,
+      "home_per_capita": 8686
+    },
+    "CVRC": {
+      "name": "Central Valley Regional Center",
+      "short": "Central Valley",
+      "area": "Fresno region (6 counties)",
+      "website": "cvrc.org",
+      "code": "CVRC",
+      "total_consumers": 36927,
+      "total_expenditure": 647436454,
+      "total_authorized": 870347212,
+      "per_capita": 17533,
+      "utilization": 0.744,
+      "ethnicity": {
+        "asian": {
+          "count": 2115,
+          "expenditure": 30102096,
+          "per_capita": 14233
+        },
+        "black": {
+          "count": 1772,
+          "expenditure": 49596480,
+          "per_capita": 27989
+        },
+        "hispanic": {
+          "count": 21713,
+          "expenditure": 276034507,
+          "per_capita": 12713
+        },
+        "white": {
+          "count": 7293,
+          "expenditure": 247611870,
+          "per_capita": 33952
+        }
+      },
+      "nopos_total": 36927,
+      "nopos_count": 6456,
+      "nopos_pct": 0.175,
+      "nopos_hispanic_pct": 0.166,
+      "nopos_white_pct": 0.174,
+      "socrec_consumers": 3570,
+      "socrec_expenditure": 8712289,
+      "socrec_per_capita": 2440,
+      "ils_consumers": 1581,
+      "ils_expenditure": 34706698,
+      "ils_per_capita": 21952,
+      "sls_consumers": 247,
+      "sls_expenditure": 48633175,
+      "sls_per_capita": 196895,
+      "home_consumers": 32740,
+      "home_expenditure": 282977213,
+      "home_per_capita": 8643
+    },
+    "ELARC": {
+      "name": "Eastern Los Angeles Regional Center",
+      "short": "Eastern LA",
+      "area": "East Los Angeles",
+      "website": "elarc.org",
+      "code": "ELARC",
+      "total_consumers": 17908,
+      "total_expenditure": 442786335,
+      "total_authorized": 611883209,
+      "per_capita": 24726,
+      "utilization": 0.724,
+      "ethnicity": {
+        "asian": {
+          "count": 2247,
+          "expenditure": 57955415,
+          "per_capita": 25792
+        },
+        "black": {
+          "count": 267,
+          "expenditure": 10944391,
+          "per_capita": 40990
+        },
+        "hispanic": {
+          "count": 12584,
+          "expenditure": 271294632,
+          "per_capita": 21559
+        },
+        "white": {
+          "count": 1496,
+          "expenditure": 81874761,
+          "per_capita": 54729
+        }
+      },
+      "nopos_total": 17908,
+      "nopos_count": 2359,
+      "nopos_pct": 0.132,
+      "nopos_hispanic_pct": 0.134,
+      "nopos_white_pct": 0.121,
+      "socrec_consumers": 4050,
+      "socrec_expenditure": 7717816,
+      "socrec_per_capita": 1906,
+      "ils_consumers": 310,
+      "ils_expenditure": 19303180,
+      "ils_per_capita": 62268,
+      "sls_consumers": 252,
+      "sls_expenditure": 44334849,
+      "sls_per_capita": 175932,
+      "home_consumers": 16550,
+      "home_expenditure": 245410423,
+      "home_per_capita": 14828
+    },
+    "FDLRC": {
+      "name": "Frank D. Lanterman Regional Center",
+      "short": "Lanterman",
+      "area": "Glendale / Greater LA",
+      "website": "lanterman.org",
+      "code": "FDLRC",
+      "total_consumers": 16355,
+      "total_expenditure": 439090682,
+      "total_authorized": 710187884,
+      "per_capita": 26847,
+      "utilization": 0.618,
+      "ethnicity": {
+        "asian": {
+          "count": 1937,
+          "expenditure": 62096420,
+          "per_capita": 32058
+        },
+        "black": {
+          "count": 1271,
+          "expenditure": 44140153,
+          "per_capita": 34729
+        },
+        "hispanic": {
+          "count": 7740,
+          "expenditure": 155384330,
+          "per_capita": 20075
+        },
+        "white": {
+          "count": 4848,
+          "expenditure": 165459587,
+          "per_capita": 34129
+        }
+      },
+      "nopos_total": 16355,
+      "nopos_count": 2631,
+      "nopos_pct": 0.161,
+      "nopos_hispanic_pct": 0.177,
+      "nopos_white_pct": 0.139,
+      "socrec_consumers": 806,
+      "socrec_expenditure": 3028789,
+      "socrec_per_capita": 3758,
+      "ils_consumers": 565,
+      "ils_expenditure": 37042479,
+      "ils_per_capita": 65562,
+      "sls_consumers": 113,
+      "sls_expenditure": 17651804,
+      "sls_per_capita": 156211,
+      "home_consumers": 14785,
+      "home_expenditure": 258871021,
+      "home_per_capita": 17509
+    },
+    "FNRC": {
+      "name": "Far Northern Regional Center",
+      "short": "Far Northern",
+      "area": "Redding region (9 counties)",
+      "website": "farnorthernrc.org",
+      "code": "FNRC",
+      "total_consumers": 12281,
+      "total_expenditure": 291609695,
+      "total_authorized": 521800225,
+      "per_capita": 23745,
+      "utilization": 0.559,
+      "ethnicity": {
+        "asian": {
+          "count": 307,
+          "expenditure": 4556792,
+          "per_capita": 14843
+        },
+        "black": {
+          "count": 271,
+          "expenditure": 7110300,
+          "per_capita": 26237
+        },
+        "hispanic": {
+          "count": 1754,
+          "expenditure": 24215682,
+          "per_capita": 13806
+        },
+        "white": {
+          "count": 8502,
+          "expenditure": 232295426,
+          "per_capita": 27322
+        }
+      },
+      "nopos_total": 12281,
+      "nopos_count": 2370,
+      "nopos_pct": 0.193,
+      "nopos_hispanic_pct": 0.155,
+      "nopos_white_pct": 0.201,
+      "socrec_consumers": 473,
+      "socrec_expenditure": 1705894,
+      "socrec_per_capita": 3607,
+      "ils_consumers": 1370,
+      "ils_expenditure": 24870588,
+      "ils_per_capita": 18154,
+      "sls_consumers": 299,
+      "sls_expenditure": 65060854,
+      "sls_per_capita": 217595,
+      "home_consumers": 9592,
+      "home_expenditure": 93049726,
+      "home_per_capita": 9701
+    },
+    "GGRC": {
+      "name": "Golden Gate Regional Center",
+      "short": "Golden Gate",
+      "area": "San Francisco, Marin, San Mateo",
+      "website": "ggrc.org",
+      "code": "GGRC",
+      "total_consumers": 12192,
+      "total_expenditure": 554874167,
+      "total_authorized": 741776422,
+      "per_capita": 45511,
+      "utilization": 0.748,
+      "ethnicity": {
+        "asian": {
+          "count": 2918,
+          "expenditure": 103075130,
+          "per_capita": 35324
+        },
+        "black": {
+          "count": 905,
+          "expenditure": 54015247,
+          "per_capita": 59685
+        },
+        "hispanic": {
+          "count": 3351,
+          "expenditure": 83573592,
+          "per_capita": 24940
+        },
+        "white": {
+          "count": 3330,
+          "expenditure": 260916297,
+          "per_capita": 78353
+        }
+      },
+      "nopos_total": 12192,
+      "nopos_count": 2329,
+      "nopos_pct": 0.191,
+      "nopos_hispanic_pct": 0.198,
+      "nopos_white_pct": 0.162,
+      "socrec_consumers": 423,
+      "socrec_expenditure": 2849103,
+      "socrec_per_capita": 6735,
+      "ils_consumers": 537,
+      "ils_expenditure": 33461535,
+      "ils_per_capita": 62312,
+      "sls_consumers": 432,
+      "sls_expenditure": 76743564,
+      "sls_per_capita": 177647,
+      "home_consumers": null,
+      "home_expenditure": null,
+      "home_per_capita": null
+    },
+    "HRC": {
+      "name": "Harbor Regional Center",
+      "short": "Harbor",
+      "area": "South Bay / Long Beach",
+      "website": "harborrc.org",
+      "code": "HRC",
+      "total_consumers": 21871,
+      "total_expenditure": 428483333,
+      "total_authorized": 681933046,
+      "per_capita": 19591,
+      "utilization": 0.628,
+      "ethnicity": {
+        "asian": {
+          "count": 2462,
+          "expenditure": 54517564,
+          "per_capita": 22144
+        },
+        "black": {
+          "count": 2467,
+          "expenditure": 55083572,
+          "per_capita": 22328
+        },
+        "hispanic": {
+          "count": 9635,
+          "expenditure": 137665239,
+          "per_capita": 14288
+        },
+        "white": {
+          "count": 3521,
+          "expenditure": 131513629,
+          "per_capita": 37351
+        }
+      },
+      "nopos_total": 21871,
+      "nopos_count": 4474,
+      "nopos_pct": 0.205,
+      "nopos_hispanic_pct": 0.203,
+      "nopos_white_pct": 0.179,
+      "socrec_consumers": 1387,
+      "socrec_expenditure": 2760122,
+      "socrec_per_capita": 1990,
+      "ils_consumers": 345,
+      "ils_expenditure": 5570881,
+      "ils_per_capita": 16147,
+      "sls_consumers": 732,
+      "sls_expenditure": 30592798,
+      "sls_per_capita": 41793,
+      "home_consumers": 19554,
+      "home_expenditure": 226279005,
+      "home_per_capita": 11572
+    },
+    "IRC": {
+      "name": "Inland Regional Center",
+      "short": "Inland",
+      "area": "San Bernardino & Riverside Counties",
+      "website": "inlandrc.org",
+      "code": "IRC",
+      "total_consumers": 60024,
+      "total_expenditure": 1106070353,
+      "total_authorized": 1659746624,
+      "per_capita": 18427,
+      "utilization": 0.666,
+      "ethnicity": {
+        "asian": {
+          "count": 2409,
+          "expenditure": 44480126,
+          "per_capita": 18464
+        },
+        "black": {
+          "count": 5462,
+          "expenditure": 148874783,
+          "per_capita": 27256
+        },
+        "hispanic": {
+          "count": 25295,
+          "expenditure": 420841861,
+          "per_capita": 16637
+        },
+        "white": {
+          "count": 11537,
+          "expenditure": 364578541,
+          "per_capita": 31601
+        }
+      },
+      "nopos_total": 60024,
+      "nopos_count": 11546,
+      "nopos_pct": 0.192,
+      "nopos_hispanic_pct": 0.197,
+      "nopos_white_pct": 0.195,
+      "socrec_consumers": 544,
+      "socrec_expenditure": 10102216,
+      "socrec_per_capita": 18570,
+      "ils_consumers": 1289,
+      "ils_expenditure": 20934813,
+      "ils_per_capita": 16241,
+      "sls_consumers": 409,
+      "sls_expenditure": 13204253,
+      "sls_per_capita": 32284,
+      "home_consumers": 54420,
+      "home_expenditure": 655349541,
+      "home_per_capita": 12042
+    },
+    "KRC": {
+      "name": "Kern Regional Center",
+      "short": "Kern",
+      "area": "Bakersfield (Kern, Inyo, Mono)",
+      "website": "kernrc.org",
+      "code": "KRC",
+      "total_consumers": 17812,
+      "total_expenditure": 311028398,
+      "total_authorized": 470246125,
+      "per_capita": 17462,
+      "utilization": 0.661,
+      "ethnicity": {
+        "asian": {
+          "count": 506,
+          "expenditure": 11743304,
+          "per_capita": 23208
+        },
+        "black": {
+          "count": 1314,
+          "expenditure": 29843561,
+          "per_capita": 22712
+        },
+        "hispanic": {
+          "count": 10768,
+          "expenditure": 125884402,
+          "per_capita": 11691
+        },
+        "white": {
+          "count": 4053,
+          "expenditure": 124808035,
+          "per_capita": 30794
+        }
+      },
+      "nopos_total": 17812,
+      "nopos_count": 3419,
+      "nopos_pct": 0.192,
+      "nopos_hispanic_pct": 0.182,
+      "nopos_white_pct": 0.209,
+      "socrec_consumers": 2022,
+      "socrec_expenditure": 5471639,
+      "socrec_per_capita": 2706,
+      "ils_consumers": 453,
+      "ils_expenditure": 9834595,
+      "ils_per_capita": 21710,
+      "sls_consumers": 444,
+      "sls_expenditure": 29049340,
+      "sls_per_capita": 65426,
+      "home_consumers": 16104,
+      "home_expenditure": 163775532,
+      "home_per_capita": 10170
+    },
+    "NBRC": {
+      "name": "North Bay Regional Center",
+      "short": "North Bay",
+      "area": "Napa, Solano, Sonoma",
+      "website": "nbrc.net",
+      "code": "NBRC",
+      "total_consumers": 13690,
+      "total_expenditure": 511636262,
+      "total_authorized": 656968320,
+      "per_capita": 37373,
+      "utilization": 0.779,
+      "ethnicity": {
+        "asian": {
+          "count": 779,
+          "expenditure": 27704352,
+          "per_capita": 35564
+        },
+        "black": {
+          "count": 1089,
+          "expenditure": 55006298,
+          "per_capita": 50511
+        },
+        "hispanic": {
+          "count": 4020,
+          "expenditure": 63299886,
+          "per_capita": 15746
+        },
+        "white": {
+          "count": 4894,
+          "expenditure": 313690543,
+          "per_capita": 64097
+        }
+      },
+      "nopos_total": 13690,
+      "nopos_count": 2035,
+      "nopos_pct": 0.149,
+      "nopos_hispanic_pct": 0.147,
+      "nopos_white_pct": 0.141,
+      "socrec_consumers": 268,
+      "socrec_expenditure": 1583136,
+      "socrec_per_capita": 5907,
+      "ils_consumers": 671,
+      "ils_expenditure": 28544450,
+      "ils_per_capita": 42540,
+      "sls_consumers": 656,
+      "sls_expenditure": 135813796,
+      "sls_per_capita": 207033,
+      "home_consumers": 11146,
+      "home_expenditure": 136040921,
+      "home_per_capita": 12205
+    },
+    "NLACRC": {
+      "name": "North Los Angeles County Regional Center",
+      "short": "North LA County",
+      "area": "San Fernando / Santa Clarita / Antelope Valley",
+      "website": "nlacrc.org",
+      "code": "NLACRC",
+      "total_consumers": 44191,
+      "total_expenditure": 998181961,
+      "total_authorized": 1510651719,
+      "per_capita": 22588,
+      "utilization": 0.661,
+      "ethnicity": {
+        "asian": {
+          "count": 2526,
+          "expenditure": 62984411,
+          "per_capita": 24934
+        },
+        "black": {
+          "count": 4420,
+          "expenditure": 104766664,
+          "per_capita": 23703
+        },
+        "hispanic": {
+          "count": 21892,
+          "expenditure": 352890067,
+          "per_capita": 16120
+        },
+        "white": {
+          "count": 11029,
+          "expenditure": 417356132,
+          "per_capita": 37842
+        }
+      },
+      "nopos_total": 44191,
+      "nopos_count": 10579,
+      "nopos_pct": 0.239,
+      "nopos_hispanic_pct": 0.263,
+      "nopos_white_pct": 0.201,
+      "socrec_consumers": 3199,
+      "socrec_expenditure": 18552656,
+      "socrec_per_capita": 5800,
+      "ils_consumers": 1153,
+      "ils_expenditure": 32516849,
+      "ils_per_capita": 28202,
+      "sls_consumers": 443,
+      "sls_expenditure": 84255870,
+      "sls_per_capita": 190194,
+      "home_consumers": 40497,
+      "home_expenditure": 628703513,
+      "home_per_capita": 15525
+    },
+    "RCEB": {
+      "name": "Regional Center of the East Bay",
+      "short": "East Bay",
+      "area": "Alameda & Contra Costa Counties",
+      "website": "rceb.org",
+      "code": "RCEB",
+      "total_consumers": 30318,
+      "total_expenditure": 941058982,
+      "total_authorized": 1283605794,
+      "per_capita": 31040,
+      "utilization": 0.733,
+      "ethnicity": {
+        "asian": {
+          "count": 5699,
+          "expenditure": 148226019,
+          "per_capita": 26009
+        },
+        "black": {
+          "count": 4545,
+          "expenditure": 182302719,
+          "per_capita": 40111
+        },
+        "hispanic": {
+          "count": 8129,
+          "expenditure": 140359538,
+          "per_capita": 17267
+        },
+        "white": {
+          "count": 6604,
+          "expenditure": 366441642,
+          "per_capita": 55488
+        }
+      },
+      "nopos_total": 30318,
+      "nopos_count": 7840,
+      "nopos_pct": 0.259,
+      "nopos_hispanic_pct": 0.266,
+      "nopos_white_pct": 0.23,
+      "socrec_consumers": 2011,
+      "socrec_expenditure": 8955947,
+      "socrec_per_capita": 4453,
+      "ils_consumers": 1532,
+      "ils_expenditure": 50347112,
+      "ils_per_capita": 32864,
+      "sls_consumers": 594,
+      "sls_expenditure": 135566998,
+      "sls_per_capita": 228227,
+      "home_consumers": 25498,
+      "home_expenditure": 334046392,
+      "home_per_capita": 13101
+    },
+    "RCOC": {
+      "name": "Regional Center of Orange County",
+      "short": "Orange County",
+      "area": "Orange County",
+      "website": "rcocdd.com",
+      "code": "RCOC",
+      "total_consumers": 30480,
+      "total_expenditure": 769294572,
+      "total_authorized": 1192594318,
+      "per_capita": 25239,
+      "utilization": 0.645,
+      "ethnicity": {
+        "asian": {
+          "count": 5393,
+          "expenditure": 113400395,
+          "per_capita": 21027
+        },
+        "black": {
+          "count": 682,
+          "expenditure": 22000338,
+          "per_capita": 32259
+        },
+        "hispanic": {
+          "count": 10963,
+          "expenditure": 173194272,
+          "per_capita": 15798
+        },
+        "white": {
+          "count": 8572,
+          "expenditure": 375412773,
+          "per_capita": 43795
+        }
+      },
+      "nopos_total": 30480,
+      "nopos_count": 6081,
+      "nopos_pct": 0.2,
+      "nopos_hispanic_pct": 0.238,
+      "nopos_white_pct": 0.163,
+      "socrec_consumers": 2829,
+      "socrec_expenditure": 3759145,
+      "socrec_per_capita": 1329,
+      "ils_consumers": 1013,
+      "ils_expenditure": 47413683,
+      "ils_per_capita": 46805,
+      "sls_consumers": 504,
+      "sls_expenditure": 82436833,
+      "sls_per_capita": 163565,
+      "home_consumers": 26244,
+      "home_expenditure": 332752856,
+      "home_per_capita": 12679
+    },
+    "RCRC": {
+      "name": "Redwood Coast Regional Center",
+      "short": "Redwood Coast",
+      "area": "Del Norte, Humboldt, Lake, Mendocino",
+      "website": "redwoodcoastrc.org",
+      "code": "RCRC",
+      "total_consumers": 6056,
+      "total_expenditure": 194803788,
+      "total_authorized": 361828387,
+      "per_capita": 32167,
+      "utilization": 0.538,
+      "ethnicity": {
+        "asian": {
+          "count": 111,
+          "expenditure": 2544843,
+          "per_capita": 22927
+        },
+        "black": {
+          "count": 136,
+          "expenditure": 4020613,
+          "per_capita": 29563
+        },
+        "hispanic": {
+          "count": 1151,
+          "expenditure": 20290461,
+          "per_capita": 17629
+        },
+        "white": {
+          "count": 3782,
+          "expenditure": 148559771,
+          "per_capita": 39281
+        }
+      },
+      "nopos_total": 6056,
+      "nopos_count": 662,
+      "nopos_pct": 0.109,
+      "nopos_hispanic_pct": 0.074,
+      "nopos_white_pct": 0.108,
+      "socrec_consumers": 1986,
+      "socrec_expenditure": 1965292,
+      "socrec_per_capita": 990,
+      "ils_consumers": 670,
+      "ils_expenditure": 19242356,
+      "ils_per_capita": 28720,
+      "sls_consumers": 489,
+      "sls_expenditure": 82295075,
+      "sls_per_capita": 168293,
+      "home_consumers": 4629,
+      "home_expenditure": 70486611,
+      "home_per_capita": 15227
+    },
+    "SARC": {
+      "name": "San Andreas Regional Center",
+      "short": "San Andreas",
+      "area": "San Jose / Santa Cruz (4 counties)",
+      "website": "sanandreasregional.org",
+      "code": "SARC",
+      "total_consumers": 24639,
+      "total_expenditure": 833923213,
+      "total_authorized": 1310260112,
+      "per_capita": 33846,
+      "utilization": 0.636,
+      "ethnicity": {
+        "asian": {
+          "count": 4907,
+          "expenditure": 140619140,
+          "per_capita": 28657
+        },
+        "black": {
+          "count": 444,
+          "expenditure": 25846316,
+          "per_capita": 58212
+        },
+        "hispanic": {
+          "count": 11172,
+          "expenditure": 217833353,
+          "per_capita": 19498
+        },
+        "white": {
+          "count": 4812,
+          "expenditure": 378729919,
+          "per_capita": 78705
+        }
+      },
+      "nopos_total": 24639,
+      "nopos_count": 3334,
+      "nopos_pct": 0.135,
+      "nopos_hispanic_pct": 0.131,
+      "nopos_white_pct": 0.136,
+      "socrec_consumers": 709,
+      "socrec_expenditure": 3794787,
+      "socrec_per_capita": 5352,
+      "ils_consumers": 729,
+      "ils_expenditure": 28398238,
+      "ils_per_capita": 38955,
+      "sls_consumers": 581,
+      "sls_expenditure": 151891226,
+      "sls_per_capita": 261431,
+      "home_consumers": 21357,
+      "home_expenditure": 300580521,
+      "home_per_capita": 14074
+    },
+    "SCLARC": {
+      "name": "South Central Los Angeles Regional Center",
+      "short": "South Central LA",
+      "area": "South Central Los Angeles",
+      "website": "sclarc.org",
+      "code": "SCLARC",
+      "total_consumers": 30767,
+      "total_expenditure": 648973114,
+      "total_authorized": 895873187,
+      "per_capita": 21093,
+      "utilization": 0.724,
+      "ethnicity": {
+        "asian": {
+          "count": 231,
+          "expenditure": 8810425,
+          "per_capita": 38140
+        },
+        "black": {
+          "count": 6101,
+          "expenditure": 237564748,
+          "per_capita": 38939
+        },
+        "hispanic": {
+          "count": 22387,
+          "expenditure": 347678447,
+          "per_capita": 15530
+        },
+        "white": {
+          "count": 605,
+          "expenditure": 35927009,
+          "per_capita": 59383
+        }
+      },
+      "nopos_total": 30767,
+      "nopos_count": 2973,
+      "nopos_pct": 0.097,
+      "nopos_hispanic_pct": 0.096,
+      "nopos_white_pct": 0.081,
+      "socrec_consumers": 1322,
+      "socrec_expenditure": 2683136,
+      "socrec_per_capita": 2030,
+      "ils_consumers": 349,
+      "ils_expenditure": 17790797,
+      "ils_per_capita": 50976,
+      "sls_consumers": 682,
+      "sls_expenditure": 69760172,
+      "sls_per_capita": 102288,
+      "home_consumers": 28261,
+      "home_expenditure": 356779871,
+      "home_per_capita": 12624
+    },
+    "SDRC": {
+      "name": "San Diego Regional Center",
+      "short": "San Diego",
+      "area": "San Diego & Imperial Counties",
+      "website": "sdrc.org",
+      "code": "SDRC",
+      "total_consumers": 49496,
+      "total_expenditure": 827439547,
+      "total_authorized": 1256311642,
+      "per_capita": 16717,
+      "utilization": 0.659,
+      "ethnicity": {
+        "asian": {
+          "count": 3782,
+          "expenditure": 54830499,
+          "per_capita": 14498
+        },
+        "black": {
+          "count": 2615,
+          "expenditure": 62121339,
+          "per_capita": 23756
+        },
+        "hispanic": {
+          "count": 20557,
+          "expenditure": 244556197,
+          "per_capita": 11896
+        },
+        "white": {
+          "count": 12373,
+          "expenditure": 367483659,
+          "per_capita": 29700
+        }
+      },
+      "nopos_total": 49496,
+      "nopos_count": 10838,
+      "nopos_pct": 0.219,
+      "nopos_hispanic_pct": 0.227,
+      "nopos_white_pct": 0.184,
+      "socrec_consumers": 7169,
+      "socrec_expenditure": 17993996,
+      "socrec_per_capita": 2510,
+      "ils_consumers": 1704,
+      "ils_expenditure": 37811053,
+      "ils_per_capita": 22190,
+      "sls_consumers": 435,
+      "sls_expenditure": 89667731,
+      "sls_per_capita": 206133,
+      "home_consumers": 44028,
+      "home_expenditure": 348723632,
+      "home_per_capita": 7920
+    },
+    "SGPRC": {
+      "name": "San Gabriel/Pomona Regional Center",
+      "short": "San Gabriel/Pomona",
+      "area": "San Gabriel Valley",
+      "website": "sgprc.org",
+      "code": "SGPRC",
+      "total_consumers": 19022,
+      "total_expenditure": 486399965,
+      "total_authorized": 653297296,
+      "per_capita": 25570,
+      "utilization": 0.745,
+      "ethnicity": {
+        "asian": {
+          "count": 2520,
+          "expenditure": 59107291,
+          "per_capita": 23455
+        },
+        "black": {
+          "count": 891,
+          "expenditure": 43507896,
+          "per_capita": 48830
+        },
+        "hispanic": {
+          "count": 10983,
+          "expenditure": 220907597,
+          "per_capita": 20114
+        },
+        "white": {
+          "count": 2390,
+          "expenditure": 122593085,
+          "per_capita": 51294
+        }
+      },
+      "nopos_total": 19022,
+      "nopos_count": 3640,
+      "nopos_pct": 0.191,
+      "nopos_hispanic_pct": 0.204,
+      "nopos_white_pct": 0.179,
+      "socrec_consumers": 350,
+      "socrec_expenditure": 1395733,
+      "socrec_per_capita": 3988,
+      "ils_consumers": 410,
+      "ils_expenditure": 9680370,
+      "ils_per_capita": 23611,
+      "sls_consumers": 129,
+      "sls_expenditure": 12683147,
+      "sls_per_capita": 98319,
+      "home_consumers": 16649,
+      "home_expenditure": 245244905,
+      "home_per_capita": 14730
+    },
+    "TCRC": {
+      "name": "Tri Counties Regional Center",
+      "short": "Tri Counties",
+      "area": "Ventura, Santa Barbara, San Luis Obispo",
+      "website": "tri-counties.org",
+      "code": "TCRC",
+      "total_consumers": 24979,
+      "total_expenditure": 528541561,
+      "total_authorized": 799587702,
+      "per_capita": 21159,
+      "utilization": 0.661,
+      "ethnicity": {
+        "asian": {
+          "count": 653,
+          "expenditure": 15290187,
+          "per_capita": 23415
+        },
+        "black": {
+          "count": 314,
+          "expenditure": 16232977,
+          "per_capita": 51697
+        },
+        "hispanic": {
+          "count": 12549,
+          "expenditure": 173373865,
+          "per_capita": 13816
+        },
+        "white": {
+          "count": 9046,
+          "expenditure": 283598036,
+          "per_capita": 31351
+        }
+      },
+      "nopos_total": 24979,
+      "nopos_count": 3219,
+      "nopos_pct": 0.129,
+      "nopos_hispanic_pct": 0.12,
+      "nopos_white_pct": 0.137,
+      "socrec_consumers": 2300,
+      "socrec_expenditure": 3164336,
+      "socrec_per_capita": 1376,
+      "ils_consumers": 885,
+      "ils_expenditure": 27580044,
+      "ils_per_capita": 31164,
+      "sls_consumers": 709,
+      "sls_expenditure": 109947182,
+      "sls_per_capita": 155074,
+      "home_consumers": 22018,
+      "home_expenditure": 241057491,
+      "home_per_capita": 10948
+    },
+    "VMRC": {
+      "name": "Valley Mountain Regional Center",
+      "short": "Valley Mountain",
+      "area": "Stockton / Modesto (5 counties)",
+      "website": "vmrc.net",
+      "code": "VMRC",
+      "total_consumers": 25875,
+      "total_expenditure": 489089931,
+      "total_authorized": 642698982,
+      "per_capita": 18902,
+      "utilization": 0.761,
+      "ethnicity": {
+        "asian": {
+          "count": 2564,
+          "expenditure": 42695766,
+          "per_capita": 16652
+        },
+        "black": {
+          "count": 1964,
+          "expenditure": 53585256,
+          "per_capita": 27284
+        },
+        "hispanic": {
+          "count": 11043,
+          "expenditure": 148151526,
+          "per_capita": 13416
+        },
+        "white": {
+          "count": 6805,
+          "expenditure": 200838112,
+          "per_capita": 29513
+        }
+      },
+      "nopos_total": 25875,
+      "nopos_count": 3945,
+      "nopos_pct": 0.152,
+      "nopos_hispanic_pct": 0.134,
+      "nopos_white_pct": 0.167,
+      "socrec_consumers": 302,
+      "socrec_expenditure": 1323307,
+      "socrec_per_capita": 4382,
+      "ils_consumers": 533,
+      "ils_expenditure": 9369052,
+      "ils_per_capita": 17578,
+      "sls_consumers": 518,
+      "sls_expenditure": 35919625,
+      "sls_per_capita": 69343,
+      "home_consumers": 23106,
+      "home_expenditure": 247302932,
+      "home_per_capita": 10703
+    },
+    "WRC": {
+      "name": "Westside Regional Center",
+      "short": "Westside",
+      "area": "West LA / Santa Monica",
+      "website": "westsiderc.org",
+      "code": "WRC",
+      "total_consumers": 14238,
+      "total_expenditure": 535811367,
+      "total_authorized": 859449705,
+      "per_capita": 37632,
+      "utilization": 0.623,
+      "ethnicity": {
+        "asian": {
+          "count": 661,
+          "expenditure": 23329889,
+          "per_capita": 35295
+        },
+        "black": {
+          "count": 3153,
+          "expenditure": 144429066,
+          "per_capita": 45807
+        },
+        "hispanic": {
+          "count": 5176,
+          "expenditure": 139952889,
+          "per_capita": 27039
+        },
+        "white": {
+          "count": 3389,
+          "expenditure": 169018590,
+          "per_capita": 49873
+        }
+      },
+      "nopos_total": 14238,
+      "nopos_count": 1995,
+      "nopos_pct": 0.14,
+      "nopos_hispanic_pct": 0.162,
+      "nopos_white_pct": 0.112,
+      "socrec_consumers": 1551,
+      "socrec_expenditure": 5902579,
+      "socrec_per_capita": 3806,
+      "ils_consumers": 463,
+      "ils_expenditure": 39260126,
+      "ils_per_capita": 84795,
+      "sls_consumers": 534,
+      "sls_expenditure": 99709371,
+      "sls_per_capita": 186722,
+      "home_consumers": 12621,
+      "home_expenditure": 292050548,
+      "home_per_capita": 23140
+    }
+  }
+}
