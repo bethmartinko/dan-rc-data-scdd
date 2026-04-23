@@ -5,8 +5,11 @@
 # service name (dan-rc-data-scdd).
 
 steps:
-  # 1. Build the container from the Dockerfile.
+  # 1. Build the container from the Dockerfile. `dir:` means this step runs
+  # inside the deploy_scdd/ subdirectory of the cloned repo, where the
+  # Dockerfile, .dockerignore, and site content live.
   - name: gcr.io/cloud-builders/docker
+    dir: deploy_scdd
     args:
       - build
       - --tag=us-west1-docker.pkg.dev/$PROJECT_ID/dan/dan-rc-data:$COMMIT_SHA
@@ -15,6 +18,7 @@ steps:
 
   # 2. Push the image to Artifact Registry.
   - name: gcr.io/cloud-builders/docker
+    dir: deploy_scdd
     args:
       - push
       - --all-tags
@@ -22,6 +26,7 @@ steps:
 
   # 3. Deploy to Cloud Run.
   - name: gcr.io/google.com/cloudsdktool/cloud-sdk
+    dir: deploy_scdd
     entrypoint: gcloud
     args:
       - run
