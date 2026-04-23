@@ -1,0 +1,16 @@
+# Allowlist: ignore everything by default, un-ignore only the files the
+# static site actually serves.
+
+**
+
+# --- Runtime essentials ---
+!server.js
+!package.json
+!package-lock.json
+
+# --- The site ---
+!index.html
+
+# --- XLSX data files (must un-ignore parents before children) ---
+!data
+!data/**
